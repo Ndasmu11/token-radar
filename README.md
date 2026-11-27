@@ -1,5 +1,11 @@
 # Token Radar: pre-token protocols ranked by implied value
 
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/Ndasmu11/token-radar/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/Ndasmu11/token-radar/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
+An entry to the [token-radar-01 bounty](https://make.fun/bounty/token-radar-01).
+
 A static board of every protocol in the snapshot that has real TVL and no token, ranked by a model
 whose only inputs are the snapshot's own figures: TVL, seven-day growth, how long the protocol has
 run with no token, how many chains it lives on and what it does. No protocol name is special-cased
